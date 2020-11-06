@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="item_contacto">Contacto</string>
+    <string name="content_description_favoritos">"favoritos "</string>
+    <string name="numero_raiteadas">0</string>
+    <string name="textview">TextView</string>
+    <string name="puppy_descripcion">puppy</string>
+    <string name="boton_para_raitear">Boton Raitear</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="exit">Exit</string>
+    <string name="item_acercade">About</string>
+    <string name="imagen_about">imagen about</string>
+    <string name="hello_blank_fragment">Hello blank</string>
+    <string name="descripcion_imagen_perfil">foto perfil</string>
+    <string name="title_activity_contacto">Contacto</string>
+    <string name="hello_world">Hello Square!</string>
+    <string name="author">Coursera</string>
+    <string name="acerca_de_nosotros">About us</string>
+    <string name="descripcion_about">We are this </string>
+    <string name="ultimos_5_likes">Ultimos 5 likes</string>
+</resources>

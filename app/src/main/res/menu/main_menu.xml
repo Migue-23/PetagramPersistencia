@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/favoritos"
+        android:icon="@drawable/ic_favoritos"
+        android:title="favoritos"
+        android:contentDescription="@string/content_description_favoritos"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/mmain_contacto"
+        android:title="@string/item_contacto"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/mmain_acercade"
+        android:title="@string/item_acercade"
+        app:showAsAction="never" />
+</menu>
